@@ -24,11 +24,11 @@ class main {
         StatisticsDisplay statisticsDisplay = new StatisticsDisplay(weatherData);
         CurrentConditionsDisplay currentConditionsDisplay = new CurrentConditionsDisplay(weatherData);
         weatherData.setMeasurements(123,123,123);
-
-
         weatherData.setMeasurements(231,231,412);
 
-        /* Observer pull */
+        /* Observer B */
+
+
 
 
 
