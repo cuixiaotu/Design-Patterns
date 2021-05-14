@@ -1,11 +1,8 @@
 package test;
 
-import Observer.CurrentConditionsDisplay;
-import Observer.StatisticsDisplay;
-import Observer.WeatherData;
-
-import Strategy.FlyRocketPowered;
-import Strategy.RedHatDuck;
+import observer.CurrentConditionsDisplay;
+import observer.StatisticsDisplay;
+import observer.WeatherData;
 
 
 public class main {
