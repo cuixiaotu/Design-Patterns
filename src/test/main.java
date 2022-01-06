@@ -1,8 +1,8 @@
 package test;
 
-import observer.CurrentConditionsDisplay;
-import observer.StatisticsDisplay;
-import observer.WeatherData;
+import design.observer.CurrentConditionsDisplay;
+import design.observer.StatisticsDisplay;
+import design.observer.WeatherData;
 
 
 public class main {
